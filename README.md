@@ -51,9 +51,9 @@ node cli/makefun.mjs grade-local --kit . --bot ~/workspace/makefun-pumpfun/rebui
 ## Local grade result
 
 ```
-net PnL   0.450868797 SOL  (return 0.045086879)
-trading   160 fills over 68 coins, 69 round trips, win rate 0.246376811, max drawdown 0.014495958, 8 rejected, 4 failed
-fees      0.171580638 SOL curve + 0.017220000 SOL tx
-guardrails met (coins ok: 68 hold a round trip of at least 0.010000000 SOL, over 69 such round trips, drawdown ok)
+net PnL   0.274404039 SOL  (return 0.027440403)
+trading   158 fills over 68 coins, 68 round trips, win rate 0.294117647, max drawdown 0.032903686, 8 rejected, 6 failed
+fees      0.253969710 SOL curve + 0.017220000 SOL tx
+guardrails met (coins ok: 68 hold a round trip of at least 0.010000000 SOL, over 68 such round trips, drawdown ok)
 L1 regrade        reproduced byte for byte
 ```
